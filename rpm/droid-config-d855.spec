@@ -1,6 +1,6 @@
 # These and other macros are documented in
 # ../droid-configs-device/droid-configs.inc
-%define device hammerhead
+%define device d855
 %define vendor lge
 %define vendor_pretty LG
 %define device_pretty G3 d855
